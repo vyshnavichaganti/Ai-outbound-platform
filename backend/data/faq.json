@@ -1,0 +1,45 @@
+{
+  "faq": [
+    {
+      "question": "Do you provide placement assistance?",
+      "answer": "Yes, placement assistance is provided to eligible students."
+    },
+    {
+      "question": "Are classes online or offline?",
+      "answer": "Both online and offline learning options are available."
+    },
+    {
+      "question": "Is Python included in Data Science?",
+      "answer": "Yes, Python is one of the core modules."
+    },
+    {
+      "question": "Do I get certificates?",
+      "answer": "Yes, course completion certificates are provided."
+    },
+    {
+      "question": "Can beginners join?",
+      "answer": "Yes, beginner-friendly training is available."
+    },
+    {
+      "question": "Do you provide projects?",
+      "answer": "Students work on real-world projects and case studies."
+    },
+    {
+      "question": "Is there internship support?",
+      "answer": "Internship guidance and opportunities are provided."
+    },
+    {
+"question":"Who are you?",
+"answer":"I am an AI Counselor from AI Academy."
+},
+{
+"question":"What courses do you provide?",
+"answer":"We provide Python, AI, Machine Learning, Prompt Engineering and Full Stack Development courses."
+},
+{
+"question":"Do you provide certificates?",
+"answer":"Yes."
+}
+  ]
+
+}

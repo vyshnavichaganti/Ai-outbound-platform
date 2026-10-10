@@ -1,0 +1,18 @@
+{
+  "workshops": [
+    {
+      "name": "Data Science Career Workshop",
+      "date": "2026-06-15",
+      "time": "6:00 PM",
+      "mode": "Online",
+      "seats": 100
+    },
+    {
+      "name": "AI & Machine Learning Workshop",
+      "date": "2026-06-20",
+      "time": "7:00 PM",
+      "mode": "Online",
+      "seats": 100
+    }
+  ]
+}

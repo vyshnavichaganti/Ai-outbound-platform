@@ -1,0 +1,23 @@
+[
+  {
+    "name":"Python Fundamentals",
+    "duration":"3 months",
+    "fees":"₹15000",
+    "mode":"Online",
+    "target":"Beginners"
+  },
+  {
+    "name":"AI & Machine Learning",
+    "duration":"6 months",
+    "fees":"₹35000",
+    "mode":"Online",
+    "target":"CSE students"
+  },
+  {
+    "name":"Prompt Engineering",
+    "duration":"2 months",
+    "fees":"₹10000",
+    "mode":"Online",
+    "target":"AI Enthusiasts"
+  }
+]
